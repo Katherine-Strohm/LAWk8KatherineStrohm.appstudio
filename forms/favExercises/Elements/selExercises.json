@@ -34,7 +34,7 @@
   "mTop": "",
   "multiSelect": "true",
   "name": "",
-  "onchange": "",
+  "onchange": "selExercises.onchange()",
   "onclick": "",
   "oncopy": "",
   "oncut": "",
